@@ -1,5 +1,4 @@
 # Chess
-2-Player Chess Game
 
 # 2-Player Chess Game
 
