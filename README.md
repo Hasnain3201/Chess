@@ -19,7 +19,7 @@ This project is a 2-Player Chess game designed to be played in the terminal. The
 
 - Java Development Kit (JDK) installed on your system.
 
-##**Playing the Game**
+### **Playing the Game**
 
 The game starts with the white player's move.
 Input moves in the format FileRank FileRank (e.g., e2 e4).
