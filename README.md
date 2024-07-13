@@ -22,11 +22,17 @@ This project is a 2-Player Chess game designed to be played in the terminal. The
 ### **Playing the Game**
 
 The game starts with the white player's move.
+
 Input moves in the format FileRank FileRank (e.g., e2 e4).
+
 Special moves:
-Castling: e1 g1 (for white king's side castling).
+
+Castling: e1 g1 (for white king's side castling). 
+
 Pawn Promotion: g7 g8 N (promote to knight).
+
 Resign: resign.
+
 Draw: Append draw? to a move (e.g., e2 e4 draw?).
 
 **Authors**
