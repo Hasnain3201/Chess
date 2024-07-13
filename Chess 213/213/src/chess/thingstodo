@@ -1,0 +1,31 @@
+THINGS THAT NEED TO BE FIXED:
+1*. Pawns  possibly being able to move out of their row as well *[pretty well tested at this point, this should be fine]
+2. Pawns being able to capture pieces to the left and right of them on the board (both black and white have this issue)
+3. Board not appearing immedaitly (one move is required for board to appear)
+4. Board printing empty when an invalid move is done
+
+
+Hasnain:
+
+King
+Pawn
+Rook
+
+Peter:
+
+Queen
+Knight
+Bishop
+
+Legal/illegal moves
+
+Things to implement
+
+How turns work
+Special Moves
+    Castling
+    En passant
+    Promotion
+Check
+Checkmate
+Resign/Draw
